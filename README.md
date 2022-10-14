@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Fran!
 
+![github-stats](https://github-readme-stats.vercel.app/api?username=franjpr&show_icons=true)
+
+I graduated as a software engineer in 2017 and I’ve not stopped learning since then, my interests are football, blockchain,
+and of course frontend development. I’m looking forward to making the jump to Web3 developer!
+
+- 🔭 I’m currently working at LeanMind
+- 🌱 I’m currently learning blockchain & web3 development 
+- 👯 I’m looking to collaborate on open-source projects related with web3
+
+![github-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franjpr)
 <!--
 **franjpr/franjpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
