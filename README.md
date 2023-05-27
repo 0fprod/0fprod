@@ -1,7 +1,7 @@
 # Hello! I'm Fran
 
 ## 💫 About Me:
-I graduated as a software engineer in 2017 and I’ve not stopped learning since then, my interests are football, blockchain, and of course frontend development. I’m looking forward to making the jump to Web3 developer!<br><br>🔭 I’m currently working at LeanMind<br>🌱 I’m currently learning blockchain & web3 development<br>👯 I’m looking to collaborate on open-source projects related with web3
+I graduated as a software engineer in 2017 and I’ve not stopped learning since then, my interests are football, blockchain, and of course frontend development. Big fan of web3!<br><br>🔭 I’m currently working at LeanMind<br>🌱 I’m currently learning blockchain & web3 development<br>👯 I’m looking to collaborate on open-source projects related with web3
 
 
 ## 🌐 Socials:
