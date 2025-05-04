@@ -1,7 +1,7 @@
 # Hello! I'm Fran
 
 ## 💫 About Me:
-With over 7 years of delivering professional software. I've been tinkering with everything from front end applications, back-ends to smart contracts and always trying to follow the best practices. I'm a huge advocate for automated testing; it gives me that extra confidence boost. For me, it's all about writing quality, straightforward code that's easy to maintain and adapt. And speaking of adaptability, successful software should be able to evolve effortlessly, right?
+Delivering professional software since 2016. I've been tinkering with everything from front end applications, back-ends to smart contracts and always trying to follow the best practices. I'm a huge advocate for automated testing; it gives me that extra confidence boost. For me, it's all about writing quality, straightforward code that's easy to maintain and adapt. And speaking of adaptability, successful software should be able to evolve effortlessly, right?
 
 
 ## 🌐 Socials:
